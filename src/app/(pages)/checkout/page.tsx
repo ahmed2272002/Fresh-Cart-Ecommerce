@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useContext, useEffect, useState } from "react";
+import { Suspense, useContext, useEffect, useState } from "react";
 import { Controller, useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import {
@@ -82,7 +82,7 @@ const fieldIconClasses =
 const fieldControlClasses =
   "rounded-xl border-2 border-border bg-background pl-14 focus-visible:border-primary focus-visible:ring-primary/20";
 
-export default function CheckoutPage() {
+function CheckoutContent() {
   const [cartData, setCartData] = useState<CartDataIF | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [cartError, setCartError] = useState<string | null>(null);
@@ -501,5 +501,13 @@ export default function CheckoutPage() {
         />
       </form>
     </div>
+  );
+}
+
+export default function CheckoutPage() {
+  return (
+    <Suspense fallback={null}>
+      <CheckoutContent />
+    </Suspense>
   );
 }

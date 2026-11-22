@@ -24,14 +24,14 @@ import {
   ShoppingBag,
   User,
 } from "lucide-react";
-import React, { useEffect, useState } from "react";
+import React, { Suspense, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { AllOrdersIF } from "@/types/allOrders.Type";
 
-export default function AllOrders() {
+function AllOrdersContent() {
   const searchParams = useSearchParams();
   const userId = searchParams.get("userId");
 
@@ -366,5 +366,13 @@ function EmptyOrders() {
         </Link>
       </Button>
     </div>
+  );
+}
+
+export default function AllOrders() {
+  return (
+    <Suspense fallback={null}>
+      <AllOrdersContent />
+    </Suspense>
   );
 }
