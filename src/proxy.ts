@@ -4,7 +4,9 @@ import { NextRequest } from "next/server";
 
 // This function can be marked `async` if using `await` inside
 export async function proxy(request: NextRequest) {
-  const token = await getToken({ req: request });
+const cookiesName = process.env.NODE_ENV == "production"?`_vercel_jwt`:'next-auth.session-token'
+
+  const token = await getToken({ req: request  , cookiesName});
 
   // to get the pathname of page
   const { pathname } = request.nextUrl;
