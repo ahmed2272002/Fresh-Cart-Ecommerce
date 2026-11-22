@@ -1,0 +1,440 @@
+{"method":"browser_snapshot","warnings":["1 older browser snapshot were evicted by the bounded snapshot registry."]}
+Browser tab: tab_faca0c2e-6b0f-4c10-a20f-8fd1c3397bb9, Title: "Freshcart [E-Commerce] – Figma", URL: "https://www.figma.com/design/7GOjynvDWj2Lnbb4IKjbXK/Freshcart---E-Commerce-?node-id=24-2653&t=L5zbIDJsNdR6Mecz-0".
+1243 AXWebArea Freshcart [E-Commerce] – Figma
+  1247 element Help/zoom toolbar
+    1248 generic
+      1249 generic
+        1250 generic
+          1251 generic
+            1252 generic
+              1255 generic
+              1256 generic
+              1257 element
+            1258 generic
+          1259 document
+          1260 application Figma Design, 1 item selected, read only
+        1261 status
+          1262 text Screenreader support for the board is currently disabled. To enable it via Accessibility settings, press Ctrl+K, type Accessibility Settings, and press Enter. To see available keyboard shortcuts, enter Ctrl+Shift+Question mark .
+        1263 status
+        1266 region Comments on canvas
+          1267 button Create new comment
+        1270 generic
+        1272 generic
+        1274 generic
+        1275 region Left sidebar
+          1276 toolbar Navigation Bar
+            1277 button Main menu, Secondary actions: Expand
+              1278 image
+            1279 separator
+            1280 button File, Secondary actions: Collapse
+              1281 image
+            1284 button Review unpublished changes, Secondary actions: Expand
+          1288 generic
+            1289 generic
+              1290 button Freshcart [E-Commerce], file name
+                1291 text Freshcart [E-Commerce]
+              1292 LabelText File name
+              1295 button Edit file menu, Secondary actions: Expand
+              1296 button Minimize UI
+              1297 element Pages Find
+                1298 generic
+                  1299 heading Pages Find
+                    1300 button Pages, Secondary actions: Collapse
+                    1302 button Find
+                  1304 generic
+                    1305 generic
+                      1306 generic
+                      1307 grid
+                        1308 row 01 Foundation
+                          1309 gridcell 01 Foundation
+                            1312 button 01 Foundation
+                        1314 row 🔥 High-Fidelity Ready for dev
+                          1315 gridcell 🔥 High-Fidelity Ready for dev
+                            1318 button 🔥 High-Fidelity Ready for dev
+                              1319 text 🔥 High-Fidelity
+                              1320 image Ready for dev
+                      1321 generic
+                    1322 slider Resize handle, Value: 72
+              1323 generic
+                1324 heading Layers
+                  1325 button Layers, Secondary actions: Collapse
+                1328 element Label - Reset Password Reset Password | Mobile Reset Password | Tablet Reset Password | Desktop Label - Verify Reset Code Reset Verify Code | Mobile Reset Verify Code | Tablet Reset Verify Code | Desktop Label - Forgot Password Page Forgot Password Page | Mobile Forgot Password Page | Tablet Forgot Password Page | Desktop Label - Products Page Products Page | Mobile Products Page | Tablet Products Page | Desktop Label - Categories Page Categories Page | Mobile Categories Page | Tablet Categories Page | Desktop Label - Brands Page Brands Page | Mobile Brands Page | Tablet Brands Page | Desktop Label - Profile Page - settings Profile Page - Addresses | Mobile Profile Page - Addresses | Tablet Profile Page - Addresses | Desktop Label - Profile Page - settings
+                  1329 treegrid
+                    1330 generic
+                      1331 row Label - Reset Password, Description: Auto layout, Secondary actions: Expand
+                        1332 generic
+                          1334 element
+                            1335 button
+                          1337 gridcell Label - Reset Password
+                        1339 generic
+                        1340 generic
+                        1341 generic
+                        1342 generic
+                      1343 row Reset Password | Mobile, Description: Frame, Secondary actions: Expand
+                        1344 generic
+                          1346 element
+                            1347 button
+                          1349 gridcell Reset Password | Mobile
+                        1351 generic
+                        1352 generic
+                        1353 generic
+                        1354 generic
+                      1355 row Reset Password | Tablet, Description: Frame, Secondary actions: Expand
+                        1356 generic
+                          1358 element
+                            1359 button
+                          1361 gridcell Reset Password | Tablet
+                        1363 generic
+                        1364 generic
+                        1365 generic
+                        1366 generic
+                      1367 row Reset Password | Desktop, Description: Frame, Secondary actions: Expand
+                        1368 generic
+                          1370 element
+                            1371 button
+                          1373 gridcell Reset Password | Desktop
+                        1375 generic
+                        1376 generic
+                        1377 generic
+                        1378 generic
+                      1379 row Label - Verify Reset Code, Description: Auto layout, Secondary actions: Expand
+                        1380 generic
+                          1382 element
+                            1383 button
+                          1385 gridcell Label - Verify Reset Code
+                        1387 generic
+                        1388 generic
+                        1389 generic
+                        1390 generic
+                      1391 row Reset Verify Code | Mobile, Description: Frame, Secondary actions: Expand
+                        1392 generic
+                          1394 element
+                            1395 button
+                          1397 gridcell Reset Verify Code | Mobile
+                        1399 generic
+                        1400 generic
+                        1401 generic
+                        1402 generic
+                      1403 row Reset Verify Code | Tablet, Description: Frame, Secondary actions: Expand
+                        1404 generic
+                          1406 element
+                            1407 button
+                          1409 gridcell Reset Verify Code | Tablet
+                        1411 generic
+                        1412 generic
+                        1413 generic
+                        1414 generic
+                      1415 row Reset Verify Code | Desktop, Description: Frame, Secondary actions: Expand
+                        1416 generic
+                          1418 element
+                            1419 button
+                          1421 gridcell Reset Verify Code | Desktop
+                        1423 generic
+                        1424 generic
+                        1425 generic
+                        1426 generic
+                      1427 row Label - Forgot Password Page, Description: Auto layout, Secondary actions: Expand
+                        1428 generic
+                          1430 element
+                            1431 button
+                          1433 gridcell Label - Forgot Password Page
+                        1435 generic
+                        1436 generic
+                        1437 generic
+                        1438 generic
+                      1439 row Forgot Password Page | Mobile, Description: Frame, Secondary actions: Expand
+                        1440 generic
+                          1442 element
+                            1443 button
+                          1445 gridcell Forgot Password Page | Mobile
+                        1447 generic
+                        1448 generic
+                        1449 generic
+                        1450 generic
+                      1451 row Forgot Password Page | Tablet, Description: Frame, Secondary actions: Expand
+                        1452 generic
+                          1454 element
+                            1455 button
+                          1457 gridcell Forgot Password Page | Tablet
+                        1459 generic
+                        1460 generic
+                        1461 generic
+                        1462 generic
+                      1463 row Forgot Password Page | Desktop, Description: Frame, Secondary actions: Expand
+                        1464 generic
+                          1466 element
+                            1467 button
+                          1469 gridcell Forgot Password Page | Desktop
+                        1471 generic
+                        1472 generic
+                        1473 generic
+                        1474 generic
+                      1475 row Label - Products Page, Description: Auto layout, Secondary actions: Expand
+                        1476 generic
+                          1478 element
+                            1479 button
+                          1481 gridcell Label - Products Page
+                        1483 generic
+                        1484 generic
+                        1485 generic
+                        1486 generic
+                      1487 row Products Page | Mobile, Description: Frame, Secondary actions: Expand
+                        1488 generic
+                          1490 element
+                            1491 button
+                          1493 gridcell Products Page | Mobile
+                        1495 generic
+                        1496 generic
+                        1497 generic
+                        1498 generic
+                      1499 row Products Page | Tablet, Description: Frame, Secondary actions: Expand
+                        1500 generic
+                          1502 element
+                            1503 button
+                          1505 gridcell Products Page | Tablet
+                        1507 generic
+                        1508 generic
+                        1509 generic
+                        1510 generic
+                      1511 row Products Page | Desktop, Description: Frame, Secondary actions: Expand
+                        1512 generic
+                          1514 element
+                            1515 button
+                          1517 gridcell Products Page | Desktop
+                        1519 generic
+                        1520 generic
+                        1521 generic
+                        1522 generic
+                      1523 row Label - Categories Page, Description: Auto layout, Secondary actions: Expand
+                        1524 generic
+                          1526 element
+                            1527 button
+                          1529 gridcell Label - Categories Page
+                        1531 generic
+                        1532 generic
+                        1533 generic
+                        1534 generic
+                      1535 row Categories Page | Mobile, Description: Frame, Secondary actions: Expand
+                        1536 generic
+                          1538 element
+                            1539 button
+                          1541 gridcell Categories Page | Mobile
+                        1543 generic
+                        1544 generic
+                        1545 generic
+                        1546 generic
+                      1547 row Categories Page | Tablet, Description: Frame, Secondary actions: Expand
+                        1548 generic
+                          1550 element
+                            1551 button
+                          1553 gridcell Categories Page | Tablet
+                        1555 generic
+                        1556 generic
+                        1557 generic
+                        1558 generic
+                      1559 row Categories Page | Desktop, Description: Frame, Secondary actions: Expand
+                        1560 generic
+                          1562 element
+                            1563 button
+                          1565 gridcell Categories Page | Desktop
+                        1567 generic
+                        1568 generic
+                        1569 generic
+                        1570 generic
+                      1571 row Label - Brands Page, Description: Auto layout, Secondary actions: Expand
+                        1572 generic
+                          1574 element
+                            1575 button
+                          1577 gridcell Label - Brands Page
+                        1579 generic
+                        1580 generic
+                        1581 generic
+                        1582 generic
+                      1583 row Brands Page | Mobile, Description: Frame, Secondary actions: Expand
+                        1584 generic
+                          1586 element
+                            1587 button
+                          1589 gridcell Brands Page | Mobile
+                        1591 generic
+                        1592 generic
+                        1593 generic
+                        1594 generic
+                      1595 row Brands Page | Tablet, Description: Frame, Secondary actions: Expand
+                        1596 generic
+                          1598 element
+                            1599 button
+                          1601 gridcell Brands Page | Tablet
+                        1603 generic
+                        1604 generic
+                        1605 generic
+                        1606 generic
+                      1607 row Brands Page | Desktop, Description: Frame, Secondary actions: Expand
+                        1608 generic
+                          1610 element
+                            1611 button
+                          1613 gridcell Brands Page | Desktop
+                        1615 generic
+                        1616 generic
+                        1617 generic
+                        1618 generic
+                      1619 row Label - Profile Page - settings, Description: Auto layout, Secondary actions: Expand
+                        1620 generic
+                          1622 element
+                            1623 button
+                          1625 gridcell Label - Profile Page - settings
+                        1627 generic
+                        1628 generic
+                        1629 generic
+                        1630 generic
+                      1631 row Profile Page - Addresses | Mobile, Description: Frame, Secondary actions: Expand
+                        1632 generic
+                          1634 element
+                            1635 button
+                          1637 gridcell Profile Page - Addresses | Mobile
+                        1639 generic
+                        1640 generic
+                        1641 generic
+                        1642 generic
+                      1643 row Profile Page - Addresses | Tablet, Description: Frame, Secondary actions: Expand
+                        1644 generic
+                          1646 element
+                            1647 button
+                          1649 gridcell Profile Page - Addresses | Tablet
+                        1651 generic
+                        1652 generic
+                        1653 generic
+                        1654 generic
+                      1655 row Profile Page - Addresses | Desktop, Description: Frame, Secondary actions: Expand
+                        1656 generic
+                          1658 element
+                            1659 button
+                          1661 gridcell Profile Page - Addresses | Desktop
+                        1663 generic
+                        1664 generic
+                        1665 generic
+                        1666 generic
+                      1667 row Label - Profile Page - settings, Description: Auto layout, Secondary actions: Expand
+                        1668 generic
+                          1670 element
+                            1671 button
+                          1673 gridcell Label - Profile Page - settings
+                        1675 generic
+                        1676 generic
+                        1677 generic
+                        1678 generic
+            1679 slider Resize handle, Value: 240
+        1680 region Right sidebar
+          1682 generic
+            1684 generic
+              1685 button Multiplayer tools, Secondary actions: Expand
+                1688 generic
+                1689 image
+              1690 group Prototype view
+                1691 button Present
+                1692 button Prototype view, Secondary actions: Expand
+              1694 button Share
+              1696 generic
+                1697 tablist
+                  1698 tab Comments
+                  1700 tab Properties, selected
+                1702 button 100%, zoom and view options, Secondary actions: Expand
+                  1703 text 100%
+                  1704 image
+              1706 generic
+                1708 generic
+                  1709 image Auto layout
+                    1710 image
+                  1711 button div.container
+                  1713 element Layout
+                    1715 heading Layout
+                    1717 button Copy
+                    1719 button Copy Flow: Vertical
+                      1720 generic Flow
+                      1722 generic Vertical
+                    1725 button Copy Width: Fixed (1,536px)
+                      1726 generic Width
+                      1728 generic Fixed (1,536px)
+                    1731 button Copy Height: Hug (482px)
+                      1732 generic Height
+                      1734 generic Hug (482px)
+                    1737 button Copy Max width: width/1536
+                      1738 generic Max width
+                      1741 image
+                      1742 generic width/1536
+                    1745 button Copy Top: 1462px
+                      1746 generic Top
+                      1748 generic 1462px
+                    1751 button Copy Left: 192px
+                      1752 generic Left
+                      1754 generic 192px
+                    1758 text Padding
+                    1760 button Copy Padding—Right: 16px
+                      1761 generic Right
+                      1763 generic 16px
+                    1766 button Copy Padding—Left: 16px
+                      1767 generic Left
+                      1769 generic 16px
+                    1772 button Copy Gap: item spacing/s+
+                      1773 generic Gap
+                      1776 image
+                      1777 generic item spacing/s+
+                  1779 element Export
+                    1780 generic
+                      1781 button Export
+                      1783 button Add export settings
+                1784 generic
+            1785 slider Resize handle, Value: 241
+      1786 generic
+    1788 region Application toolbar
+      1789 generic
+        1790 toolbar Editor
+          1791 button Move, pressed: true
+            1792 image
+          1793 button Hand tool, pressed: false
+            1794 image
+          1795 button Comment, pressed: false
+            1796 image
+          1797 group Frame
+          1798 group Rectangle
+          1799 group Pen
+          1800 radiogroup Toolbelt Mode
+            1801 Legend
+              1802 text Toolbelt Mode
+            1803 generic
+              1804 radio button Draw, unchecked
+              1805 element Draw
+            1806 generic
+              1807 radio button Design, checked
+              1808 element Design
+            1809 generic
+              1810 radio button Motion, unchecked
+              1811 element Motion
+            1812 generic
+              1813 radio button Dev Mode, unchecked
+              1814 element Dev Mode
+        1815 generic
+          1816 image
+          1818 text You can only view and comment on this file.
+          1820 button Ask to edit
+          1822 button Close
+    1823 region Help/zoom toolbar
+      1825 toolbar Help/zoom toolbar
+        1826 button Help, Secondary actions: Expand
+          1827 image
+    1829 generic
+    1830 generic
+    1831 generic
+      1832 generic
+      1833 generic
+      1834 status
+      1836 element
+        1837 group
+          1838 alert
+          1839 alert
+      1840 generic
+    1841 generic
+    1842 generic
+1244 AXWebArea
+1245 AXWebArea
+1246 AXWebArea
+{"capture":{"captureId":"capture_593a63e2-7fa5-430b-89bf-a1f254496fc1","coordinateSpace":"css-pixel","height":488,"mimeType":"image/png","mode":"viewport","width":520}}

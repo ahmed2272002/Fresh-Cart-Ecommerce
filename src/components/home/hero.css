@@ -1,0 +1,8 @@
+.hero-swiper-container .swiper-button-next,
+.hero-swiper-container .swiper-button-prev {
+  color: white !important;
+}
+
+.hero-swiper-container .swiper-pagination-bullet {
+  background: white !important;
+}

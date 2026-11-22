@@ -1,0 +1,10 @@
+In-app Browser JS state was preserved. Completed actions were not rolled back; refresh stale UI handles and continue only the remaining work.
+{"code":"WAIT_TIMEOUT","method":"browser_click","callIndex":1,"nextAction":"observe_again"}
+ERROR WAIT_TIMEOUT cause=preparation_expired stage=input_preparation: The shared input preparation deadline expired without a current completed result; an earlier blocker is not current evidence.
+
+Inspect the reported failure at its known stage and current page evidence; do not repeat unchanged input, broaden the target or replay uncertain effects.
+ERROR WAIT_TIMEOUT
+{"control":{"documentRevision":"rev_56508bc7-daf7-44f0-b99a-450a49667652","error":{"cause":"preparation_expired","code":"WAIT_TIMEOUT","retryable":true,"stage":"input_preparation"},"requiresSnapshot":true,"status":"error","tabId":"tab_8223d40f-1168-4546-926f-a8424fd7087d"},"kind":"error","schema":"manus.browser/v1"}
+Current locator state: {"total":1,"visible":1,"disabled":0,"classification":"current matches need fresh inspection","candidatesTruncated":false,"candidates":[{"tag":"div","visible":true,"disabled":false}]}
+ERROR WAIT_TIMEOUT
+{"control":{"documentRevision":"rev_56508bc7-daf7-44f0-b99a-450a49667652","error":{"cause":"preparation_expired","code":"WAIT_TIMEOUT","retryable":true,"stage":"input_preparation"},"requiresSnapshot":true,"status":"error","tabId":"tab_8223d40f-1168-4546-926f-a8424fd7087d"},"kind":"error","schema":"manus.browser/v1"}
